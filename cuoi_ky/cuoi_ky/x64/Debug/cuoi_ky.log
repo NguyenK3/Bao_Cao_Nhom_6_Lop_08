@@ -1,0 +1,7 @@
+﻿  CuoiKy.cpp
+D:\cuoi_ky\graphics.h(43,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\cuoi_ky\graphics.h(44,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\cuoi_ky\graphics.h(457,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\cuoi_ky\graphics.h(458,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\cuoi_ky\CuoiKy.cpp(347,9): warning C4101: 'temp': unreferenced local variable
+  cuoi_ky.vcxproj -> D:\cuoi_ky\x64\Debug\cuoi_ky.exe
